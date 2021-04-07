@@ -1,0 +1,2 @@
+# Sound-Display-and-Entertainment-System
+Using the fundamental technical skills obtained from the previous lab sessions, you will be creating a Sound Display and Entertainment (SDE) system. Two additional devices will be provided to you for the system:  MEMs microphone: This analog‐to‐digital device will capture audio signals from the surroundings, and provides the data to you in a digital format.  OLED RGB Display Screen: Information can be displayed on this 96 x 64 bit display screen with 16‐bit colour resolution.
